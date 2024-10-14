@@ -1,4 +1,4 @@
-cname = "Data"
+name = "Data"
 surname = "Pkhakadze"
 age = 15
 height = 186
