@@ -1,0 +1,18 @@
+ Case-sensitive: ეს ნიშნავს, რომ სისტემა ან პროგრამა ანალიზს აკეთებს დიდ და პატარა ასოებზე
+და განსხვავებას  მათ. მაგალითად, "Apple" და "apple" სხვადასხვა სიტყვებია. პროგრამირების ენებში, 
+როგორიცაა Java ან C++, დიდი და პატარა ასოების გამოყენება მნიშვნელოვნად განსხვავდება.
+
+Case-insensitive: ეს ნიშნავს, რომ სისტემა არ განასხვავებს დიდ და პატარა ასოებს.
+ანუ "Apple", "apple" და "APPLE" მიიჩნევა ერთნაირად. 
+
+
+
+Case-Insensitive:
+ 1.CSS (Cascading Style Sheets)
+ 2.HTML (HyperText Markup Language)
+ 3.Visual Basic
+
+Case-Sensitive:
+ 1.Java
+ 2.C++
+ 3.Python
