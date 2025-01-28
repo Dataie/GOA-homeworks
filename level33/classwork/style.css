@@ -1,0 +1,52 @@
+#p1{
+    text-decoration: underline dashed gray;
+    text-align: right;
+}
+
+#p2{
+    text-decoration: line-through ;
+    text-align: center;
+}
+
+#p3{
+    text-decoration: overline double red;
+    text-align: left
+}
+
+#p4{
+    text-decoration: underline;
+    text-align: center;
+}
+
+#p5{
+    text-decoration: dotted line-through green;
+    text-align: right;
+}
+
+#p6{
+    text-decoration: line-through;
+    text-align: left;
+    color: #00ff00;
+}
+
+#p7{
+    text-decoration: overline;
+    text-align: left;
+}
+
+#p8{
+    text-decoration: overline green;
+    text-align: right;
+}
+
+#p9{
+    text-decoration: overline gray;
+    text-align: center;
+    color: #333333;
+}
+
+#p10{
+    text-decoration: dotted underline green;
+    text-align: right;
+    color: #333333;
+}
