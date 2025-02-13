@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: #1fb0b5;
+}
+
+a:visited{
+    color: burlywood;
+}

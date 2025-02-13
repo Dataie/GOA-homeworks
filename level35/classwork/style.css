@@ -1,0 +1,18 @@
+div:hover{
+    font-size: larger;
+    font-weight: 900;
+    color: #123aa111
+}
+
+div:active{
+    font-size: small;
+    font-weight: 100;
+    color:#f23aa11f;
+}
+
+table th tr td{
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+
+}

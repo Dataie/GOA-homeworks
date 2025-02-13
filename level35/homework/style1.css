@@ -1,0 +1,10 @@
+table tr td{
+    border-style: groove;
+    border-collapse: collapse;
+}
+
+tr{
+    background-color: black;
+    color: white;
+}
+ 
