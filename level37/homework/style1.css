@@ -1,0 +1,13 @@
+ul{
+    list-style-type: none;
+}
+li{
+    list-style-type: georgian;
+}
+
+li:first-child {
+    font-weight: bold;
+}
+li:last-child {
+    font-weight: bold; 
+}
