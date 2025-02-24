@@ -1,0 +1,7 @@
+button{
+    margin: 50 30 50 30;
+    padding: 50 20 50 20;
+    border-width: 5px;
+    background-color: chocolate;
+    border-color: yellow;
+}
